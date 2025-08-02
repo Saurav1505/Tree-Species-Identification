@@ -8,5 +8,5 @@ Model .h5 links (Google Drive)
 4)MobileNetV2 Transfer Learning : https://drive.google.com/file/d/1GnnuWPMQRsPWchirTDdN2LMk242AQihs/view?usp=sharing
 
 
-Google drive Dataset folder : https://colab.research.google.com/drive/1xn8FzbpLEQtE_pB6oPC_SAhQHZunU9lX?usp=drive_link
+Google drive Dataset folder : https://drive.google.com/file/d/1JWnUrf02JKmAii14qYjqP-6pgYBhC3kG/view?usp=sharing
 
